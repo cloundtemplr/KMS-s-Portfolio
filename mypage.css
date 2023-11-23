@@ -98,4 +98,25 @@ html {
     padding: 15px;
     display: inline-block;
   }
-  
+
+   @media (max-width: 768px) {
+    .image {
+      max-width: 50%;
+    }
+    .content-wrap {
+      width: 700px;
+      margin: 0 auto;
+      padding: 60px 0;
+    }
+   }
+
+   @media (max-width: 480px) {
+    .image{
+      max-width: 40%;
+    }
+    .content-wrap {
+      width: 400px;
+      margin: 0 auto;
+      padding: 60px 0;
+    }
+   }
