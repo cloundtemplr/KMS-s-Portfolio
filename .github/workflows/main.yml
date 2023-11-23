@@ -1,4 +1,4 @@
-<!DOCTYPE >
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8">
@@ -15,7 +15,7 @@
         <h2> Welcome<br>
         KMS &#x27;s Blog</h2>
         <p> This blog is for developing myself and<br>
-        contains some basic information of computer inforamtion technology</p>
+        contains some basic information of computer information technology</p>
         </div>
      </div>
     </header>
@@ -59,7 +59,7 @@
           <h2>Contacts</h2>
           <ul class="contact-list">
             <li><a href="mailto:mkim311@my.bcit.ca">mkim311@my.bcit.ca</a></li>
-            <li><a href="mailto:Phone: 778-888-8888">Phone: 778-888-8888</a></li>
+            <li><a href="mailto:Phone:778-888-8888">Phone:778-888-8888</a></li>
           </ul>
         </div>
       </footer>
