@@ -59,7 +59,7 @@
           <h2>Contacts</h2>
           <ul class="contact-list">
             <li><a href="mailto:mkim311@my.bcit.ca">mkim311@my.bcit.ca</a></li>
-            <li><a href="mailto:Phone: 778-888-8888">Phone: 778-888-8888</a></li>
+            <li><a href="mailto:Phone:778-888-8888">Phone:778-888-8888</a></li>
           </ul>
         </div>
       </footer>
